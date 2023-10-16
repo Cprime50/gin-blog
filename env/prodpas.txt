@@ -1,0 +1,5 @@
+DB_USERNAME=rxgvppzt
+DB_PASSWORD=fpnyP9Rqy6CIRU9DocyHbus-1PHugqwh
+DB_HOSTNAME=ella.db.elephantsql.com
+DB_PORT=5432
+DB_DBNAME=rxgvppzt
